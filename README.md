@@ -1,6 +1,6 @@
 # Intro
 
-This is a small tutorial for those trying to use Linux on the laptop Lenovo Yoga Slim 7 Gen 8 (14APU8). The main two issues are:
+This is a short tutorial for those trying to use Linux on the laptop Lenovo Yoga Slim 7 Gen 8 (14APU8). The main two issues are:
 - [Audio](https://github.com/darinpp/yoga-slim-7): the speaker produce horrible sound by default and the speaker may also be damaged after prolonged use.
 - [Stand-by](https://gitlab.freedesktop.org/drm/amd/-/issues/2812): the system can't enter standby mode. It just immediately wakes up after you try to suspend.
 
